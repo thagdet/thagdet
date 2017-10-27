@@ -1,0 +1,9 @@
+Building Detcoin
+
+See doc/readme-qt.rst for instructions on building Detcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Detcoin.
+
+See doc/build-*.txt for instructions on building detcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Detcoin.
